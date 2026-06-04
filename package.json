@@ -1,8 +1,12 @@
 {
   "name": "node-cicd-demo",
   "version": "1.0.0",
+  "description": "Simple Node.js CI/CD Demo",
   "main": "app.js",
   "scripts": {
-    "test": "app.js"
-  }
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
 }
