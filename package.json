@@ -1,8 +1,8 @@
 {
   "name": "node-cicd-demo",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "node.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "node.js"
   }
 }
